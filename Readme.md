@@ -57,6 +57,17 @@
 
 * [Código limpo Javascript](https://github.com/ryanmcdermott/clean-code-javascript) Princícios de engenharia de software, livro do renomado autor Robert C. Martin's chamado código limpo, adaptado para JavaScript. It's a guide to producing [readable, reusable, and refactorable](https://github.com/ryanmcdermott/3rs-of-software-architecture)  software in JavaScript.
 
+Recommended Node.js Libraries
+-----------------------------
+
+- [Nodemon](https://github.com/remy/nodemon) - Automatically restart Node.js server on code changes.
+- [geoip-lite](https://github.com/bluesmoon/node-geoip) - Geolocation coordinates from IP address.
+- [Filesize.js](http://filesizejs.com/) - Pretty file sizes, e.g. `filesize(265318); // "265.32 kB"`.
+- [Numeral.js](http://numeraljs.com) - Library for formatting and manipulating numbers.
+- [Node Inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Chrome Developer Tools.
+- [node-taglib](https://github.com/nikhilm/node-taglib) - Library for reading the meta-data of several popular audio formats.
+- [sharp](https://github.com/lovell/sharp) - Node.js module for resizing JPEG, PNG, WebP and TIFF images.
+
 ## Advanced
 
 * [How JavaScript Works](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
